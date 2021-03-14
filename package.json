@@ -1,0 +1,19 @@
+{
+  "name": "sscs-web",
+  "version": "1.0.0",
+  "description": "web stuff for sscs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krmeet/sscs-web.git"
+  },
+  "author": "krmeet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krmeet/sscs-web/issues"
+  },
+  "homepage": "https://github.com/krmeet/sscs-web#readme"
+}
