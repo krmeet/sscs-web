@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/krmeet/sscs-web/issues"
   },
-  "homepage": "https://github.com/krmeet/sscs-web#readme"
+  "homepage": "https://github.com/krmeet/sscs-web#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
 }
